@@ -12,7 +12,7 @@ the variables defined are:
 - Greatest increase in profit and date
 - Greatest decrease in profit and date
 
-The exported .txt file is sent to the resources folder.
+The exported .txt file is sent to the Analysis folder.
 
 ## pypoll challenge
 
@@ -26,4 +26,4 @@ The variables defined are:
 - total votes for candidate C and percentage of total votes cast
 - Election Winner
 
-The exported .txt file is sent to the resources folder.
+The exported .txt file is sent to the Analysis folder.
